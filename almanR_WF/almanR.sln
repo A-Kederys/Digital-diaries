@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "almanR", "almanR.csproj", "{ACFD0F6B-7E83-4FAE-88DD-B06B0DDE1C82}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kursinis", "..\Kursinis\Kursinis.vdproj", "{7E7DA24D-33AF-47D6-A1FF-23625DA78F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFD0F6B-7E83-4FAE-88DD-B06B0DDE1C82}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFD0F6B-7E83-4FAE-88DD-B06B0DDE1C82}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ACFD0F6B-7E83-4FAE-88DD-B06B0DDE1C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFD0F6B-7E83-4FAE-88DD-B06B0DDE1C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7DA24D-33AF-47D6-A1FF-23625DA78F19}.Debug|Any CPU.ActiveCfg = Debug
+		{7E7DA24D-33AF-47D6-A1FF-23625DA78F19}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292C17DD-0E94-48BD-A11D-F6B6DE452A85}
+	EndGlobalSection
+EndGlobal
