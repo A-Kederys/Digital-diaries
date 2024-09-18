@@ -12,6 +12,12 @@ assigning moderator roles and overseeing database statistics.
 This project combines the functionality of user-generated content with an administrative interface for moderation and management.
 This is my **third semester project**.
 
+![Project Demo WEB1](showcase/demo1.gif)
+
+![Project Demo WEB2](showcase/demo2.gif)
+
+![Project Demo WF](showcase/demo3.gif)
+
 ## Features
 
 - **Web Application**:
